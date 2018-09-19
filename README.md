@@ -1,1 +1,1 @@
-# ML course on coursera: [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
+# ML course on coursera [🔗](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
