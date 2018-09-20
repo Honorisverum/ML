@@ -1,1 +1,1 @@
-# ML course on coursera [link](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
+# ML coursera [link](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
